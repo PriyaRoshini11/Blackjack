@@ -61,3 +61,6 @@ Your final hand: [10, 7], final score: 17
 Computer's final hand: [9, 8], final score: 17
 
 Draw 🙃
+
+Inspired by:
+https://games.washingtonpost.com/games/blackjack
